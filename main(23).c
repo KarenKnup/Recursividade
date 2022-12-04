@@ -24,14 +24,15 @@ void Exibe (int m[L][C]){
 }
 /*
 void Matriz(int L3, int m[L][C]){
-  int L1, L2, i, j;
+  int L1=L3-3, L2=L3-5, i, j;
 
   L3--; //adequando L3 p/ língua do PC
 
   for (i=0; i<L; i++){
     for (j=0; j<C; j++){
       if (i==L3){
-        m[i][j]=m[i-3][j]+m[i-5][j];
+        //m[i][j]=m[i-3][j]+m[i-5][j];
+	m[L3][j]=m[L1][j]+m[L2][j];
       }
     }
   }
