@@ -33,7 +33,7 @@ int main(void) {
   int n=541; //10
   int soma;
   
-  soma=somaIterativa(n);
+  soma=somaRec(n);
   printf("%d", soma);
   
   return 0;
