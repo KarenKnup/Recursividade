@@ -26,5 +26,6 @@ main 22 - Busca Linear e Busca Binária.<br>
 main 23 - Pede-se o desenvolvimento de uma função recursiva que, dada uma matriz M de L linhas e C colunas, onde L e C são
 constantes, e três linhas L1, L2 e L3, altere os elementos de L3, de forma que cada um consista na soma dos elementos
 de L1 e L2.<br>
-main 24 - Fazer uma função recursiva que, dado um número inteiro e positivo N, calcule a soma de seus algarismos.
+main 24 - Fazer uma função recursiva que, dado um número inteiro e positivo N, calcule a soma de seus algarismos. <br>
+main 25 - Desenvolver uma função recursiva que, dado um vetor de inteiros de tamanho TAM, preencha as suas posições com os valores de TAM (na posição 0) a 1 (posição TAM-1)
 
