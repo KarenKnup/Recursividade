@@ -42,6 +42,13 @@ void inverteRec(char s[]){
 
 int main(void) {
 exibirInvertida ("ALGORITMOS");
+
+/*
+char  s[50]="Karen";
+  
+inverteRec (s);
+  printf("\n\n%s",s);
+*/
   
   return 0;
 }
