@@ -20,6 +20,26 @@ void exibirInvertida (char s[])
 	exibirInvertidaAux (s, strlen(s)-1);
 }
 
+/* INVERTER UMA STRING RECURSIVAMENTE:
+
+void inverteAu(char s[], int a, int b){
+  char c;
+
+  if(a<b){
+    c = s[a];
+    s[a] = s[b];
+    s[b] = c;
+
+    inverteAu(s,a+1,b-1);
+  }
+}
+
+void inverteRec(char s[]){
+  return inverteAu(s,0,strlen(s)-1);  
+}
+
+*/
+
 int main(void) {
 exibirInvertida ("ALGORITMOS");
   
