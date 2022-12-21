@@ -28,5 +28,10 @@ constantes, e três linhas L1, L2 e L3, altere os elementos de L3, de forma que 
 de L1 e L2.<br>
 main 24 - Fazer uma função recursiva que, dado um número inteiro e positivo N, calcule a soma de seus algarismos. <br>
 main 25 - Desenvolver uma função recursiva que, dado um vetor de inteiros de tamanho TAM, preencha as suas posições com os valores de TAM (na posição 0) a 1 (posição TAM-1) <br>
-main 26 - Inverter vetor recursivamente.
+main 26 - Inverter vetor recursivamente. <br>
+main 27 - Desenvolver uma função recursiva que, dada uma string s, determine se esta representa um número válido.<br>
+Para representar um valor numérico, s deve atender às seguintes regras:<br>
+I - Todos os caracteres são algarismos ou o símbolo ponto (.)<br>
+II - No máximo UM ponto pode aparecer na string<br>
+III - Caso o ponto exista, não pode ser o primeiro nem o último caracter<br>
 
