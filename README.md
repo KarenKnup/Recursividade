@@ -34,4 +34,5 @@ Para representar um valor numérico, s deve atender às seguintes regras:<br>
 I - Todos os caracteres são algarismos ou o símbolo ponto (.)<br>
 II - No máximo UM ponto pode aparecer na string<br>
 III - Caso o ponto exista, não pode ser o primeiro nem o último caracter<br>
+main 28 - Desenvolver uma função recursiva que, dada uma string S1, crie uma nova string S2 consistindo na inversão de S1.<br>
 
