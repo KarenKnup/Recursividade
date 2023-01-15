@@ -36,4 +36,4 @@ II - No máximo UM ponto pode aparecer na string<br>
 III - Caso o ponto exista, não pode ser o primeiro nem o último caracter<br>
 main 28 - Desenvolver uma função recursiva que, dada uma string S1, crie uma nova string S2 consistindo na inversão de S1.<br>
 main 29 - Desenvolver uma função RECURSIVA que determine se os elementos de uma lista encadeada, do tipo TLista, estão ou não ordenados de forma crescente. <br>
-
+main 30 - Logaritmo recursivo
