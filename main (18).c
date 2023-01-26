@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int media_Pares (int v[], int tam, int soma, int quant){
+float media_Pares (int v[], int tam, int soma, int quant){
   if (tam==0){
     return soma/quant;
   } else {
@@ -15,7 +15,7 @@ int media_Pares (int v[], int tam, int soma, int quant){
 int main(void) {
   int v[6]={1,2,3,4,5,6};
 
-  printf("\n\tMédia dos pares: %d ",media_Pares(v,6,0,0));
+  printf("\n\tMédia dos pares: %.1f ",media_Pares(v,6,0,0));
   
   return 0;
 }
