@@ -1,5 +1,13 @@
 <div align="center">
-<h1>Recursividade</h1><br><br> </div>
+<h1>Recursividade</h1>
+
+<h3>Sobre / About</h3>
+
+`A Recursão é uma técnica de programação em que uma função chama a si mesma para resolver instâncias menores de um problema, geralmente com um caso base para encerrar o processo.`
+
+`Recursion is a programming technique where a function calls itself to solve smaller instances of a problem, often with a base case to terminate the process.`
+
+</div>
 
 Arquivo | Conteúdo
 --------|-----------
